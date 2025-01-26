@@ -1,1 +1,2 @@
 # ArewaDSProject_Downloading_Data
+This capstone project signifies the completion of the Arewa Data Science Academy Python Programming Fellowship. In the third edition of the Python crash course, we deeply delve into different methods for accessing and utilizing data, particularly emphasizing the use of CSV files for data storage and management. The project offers a fundamental grasp of data downloading, a crucial aspect of data science, and familiarizes us with the essential techniques for acquiring data for analysis and subsequent processing.
